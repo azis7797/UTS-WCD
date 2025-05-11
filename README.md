@@ -1,3 +1,15 @@
+# 🌐 UTS-WCD – Web Component Development
+UTS-WCD adalah repositori latihan untuk mata kuliah Web Component Development (WCD). Proyek ini mencakup berbagai latihan yang dirancang untuk memperkuat pemahaman tentang pengembangan komponen web menggunakan teknologi modern.
+
+# 📁 Struktur Proyek
+UTS-WCD/
+├── exercise_1
+├── exercise_2
+├── exercise_3
+├── exercise_4
+├── exercise_5
+└── exercise_6
+
 # 📚 Daftar Latihan
   Deskripsi Singkat :
 * excercise_1	[Deskripsi latihan 1 : https://github.com/azis7797/README.md ]
