@@ -1,5 +1,5 @@
 # 📚 Daftar Latihan
-No.	Folder	Deskripsi Singkat
+  Deskripsi Singkat :
 * excercise_1	[Deskripsi latihan 1 : https://github.com/azis7797/README.md ]
 * excercise_2	[Deskripsi latihan 2 : https://github.com/azis7797/Git-repository ]
 * excercise_3	[Deskripsi latihan 3 : https://github.com/azis7797/workoutaja ]
