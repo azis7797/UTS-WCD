@@ -5,7 +5,7 @@ No.	Folder	Deskripsi Singkat
 * excercise_3	[Deskripsi latihan 3 : https://github.com/azis7797/workoutaja ]
 * excercise_4	[Deskripsi latihan 4 : https://github.com/azis7797/Portofolio-Tailwind-CSS ]
 * excercise_5	[Deskripsi latihan 5 : https://github.com/azis7797/Pokemon-Web-App ]
-* excercise_6	[Deskripsi latihan 6 :https://github.com/azis7797/Pokemon-Azis ]
+* excercise_6	[Deskripsi latihan 6 : https://github.com/azis7797/Pokemon-Azis ]
 
 Catatan: Silakan lengkapi deskripsi singkat untuk setiap latihan sesuai dengan kontennya.
 
