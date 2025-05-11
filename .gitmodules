@@ -1,0 +1,18 @@
+[submodule "exercise_1_JavaScript-TypeScript-exerciseBasics"]
+	path = exercise_1_JavaScript-TypeScript-Basics
+	url = https://github.com/azis7797/README.md.git
+[submodule "exercise_2_Code-Versioning-System-Git-Github"]
+	path = exercise_2_Code-Versioning-System-Git-Github
+	url = https://github.com/azis7797/Git-repository.git
+[submodule "exercise_3_Web-Client-Development"]
+	path = exercise_3_Web-Client-Development
+	url = https://github.com/azis7797/workoutaja.git
+[submodule "exercise_4_React-Tailwind"]
+	path = exercise_4_React-Tailwind
+	url = https://github.com/azis7797/Portofolio-Tailwind-CSS.git
+[submodule "exercise_5_Pokemon-App-React-Hooks"]
+	path = exercise_5_Pokemon-App-React-Hooks
+	url = https://github.com/azis7797/Pokemon-Web-App.git
+[submodule "exercise_6_Pokemon-App-State-Management"]
+	path = sexercise_6_Pokemon-App-State-Management
+	url = https://github.com/azis7797/Pokemon-Azis.git 
