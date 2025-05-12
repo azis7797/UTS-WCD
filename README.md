@@ -31,7 +31,6 @@ UTS-WCD/
   - Aplikasi Pokémon Azis
     Proyek ini adalah pengembangan lanjutan dari aplikasi Pokémon sebelumnya, dengan penambahan fitur-fitur baru dan perbaikan antarmuka pengguna.
 
-Catatan: Silakan lengkapi deskripsi singkat untuk setiap latihan sesuai dengan kontennya.
 
 # 📌 Catatan
 Proyek ini dibuat sebagai bagian dari Ujian Tengah Semester (UTS) untuk mata kuliah Web Component Development.
